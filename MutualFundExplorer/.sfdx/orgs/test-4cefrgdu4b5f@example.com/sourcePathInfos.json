@@ -1,0 +1,116 @@
+[
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560484035206,
+            "changeTime": 1560484035206,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560484035206,
+            "changeTime": 1560484035206,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560485478368,
+            "changeTime": 1560485478368,
+            "contentHash": "05024b18c29d62b8beaf03bddcec18e750d0fc50"
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560484035207,
+            "changeTime": 1560484035207,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560484035207,
+            "changeTime": 1560484035207,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560484058482,
+            "changeTime": 1560484058482,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1560485478372,
+            "changeTime": 1560485478372,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+        }
+    ],
+    [
+        "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Program Files\\Salesforce CLI\\bin\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560485478372,
+            "changeTime": 1560485478372,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]
